@@ -87,7 +87,7 @@ class InterventionTester:
 def render_intervention_testing_ui():
     """Linear single page UI for intervention testing"""
     
-    st.title("Intervention Testing Lab")
+    st.title("STEP 3: Intervention Testing Lab")
     st.markdown("Test cybersecurity interventions against AI personas using research-backed predictions")
     
     # Check prerequisites
