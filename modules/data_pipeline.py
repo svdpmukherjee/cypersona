@@ -322,6 +322,8 @@ def render_step1_ui():
     if st.session_state.get('show_data_upload', False):
         st.markdown("---")
         st.subheader("📁 Data Ingestion")
+        # Cloud storage simulation
+        st.info("🌐 All uploaded data will be securely stored in clouds (e.g. **Azure Data Lake Gen2**")
         
         processor = LLMDataProcessor()
         
