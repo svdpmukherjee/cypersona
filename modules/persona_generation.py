@@ -404,7 +404,7 @@ def render_persona_generation_ui():
         
         persona_description = st.text_area(
             "Describe the persona you want to create:",
-            placeholder="Example: Create a persona for a busy healthcare administrator in their 40s who is moderately tech-savvy but often rushes through emails due to workload pressure and has limited cybersecurity training.",
+            placeholder="Example: Create a persona for a busy research scientist in their early 40s who is moderately tech-savvy but often rushes through emails due to workload pressure and has limited cybersecurity training.",
             height=120,
             help="Be specific about role, industry, experience level, and behavioral characteristics"
         )
@@ -414,7 +414,7 @@ def render_persona_generation_ui():
         
         with param_col1:
             industry = st.selectbox("Industry Context", 
-                ["Healthcare", "Finance", "Education", "Technology", "Government", "Any"])
+                ["Education", "Finance", "Healthcare", "Technology", "Government", "Any"])
         with param_col2:
             complexity = st.selectbox("Behavioral Detail", 
                 ["Basic", "Detailed", "Comprehensive"])

@@ -244,7 +244,7 @@ def render_intervention_testing_ui():
                     st.session_state.test_results.append(test_results)
                     
                     st.success(f"✅ Tests completed! Test ID: {test_id}")
-                    st.balloons()
+                    # st.balloons()
                     
                     # Auto-scroll to results
                     st.session_state.show_latest_results = True

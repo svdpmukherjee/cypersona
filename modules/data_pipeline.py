@@ -454,7 +454,7 @@ def render_step1_ui():
                     if os.path.exists(temp_path.replace('.pkl', '.faiss')):
                         os.remove(temp_path.replace('.pkl', '.faiss'))
                     
-                    st.balloons()
+                    # st.balloons()
         
         elif not has_data:
             st.info("Upload datasets above to enable processing")
