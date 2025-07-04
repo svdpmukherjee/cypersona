@@ -1,7 +1,6 @@
 """
 CyPersona: AI-Powered Cybersecurity Persona Generation
 Main application entry point for Streamlit web app
-Updated to use Together AI instead of Hugging Face
 """
 
 import streamlit as st

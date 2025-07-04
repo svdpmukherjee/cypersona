@@ -1,7 +1,6 @@
 """
-LLM-Powered Data Processing Pipeline for CyPersona
-Uses OpenAI for embeddings and vector storage with persistence
-FIXED: Knowledge base loading and querying issues
+STEP 1: LLM-Powered Data Processing Pipeline for CyPersona
+
 """
 
 import streamlit as st

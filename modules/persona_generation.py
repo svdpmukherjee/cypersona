@@ -1,6 +1,6 @@
 """
 Step 2: Simplified AI-Powered Persona Generation
-Single page view using Together AI with Llama 3.1 8B and vector knowledge base
+
 """
 
 import streamlit as st

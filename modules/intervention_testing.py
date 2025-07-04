@@ -1,6 +1,6 @@
 """
-Step 3: Intervention Testing - Linear Single Page Design
-Test interventions against AI personas using Together AI
+Step 3: Test interventions against AI personas
+
 """
 
 import streamlit as st
@@ -320,7 +320,7 @@ def render_intervention_testing_ui():
                 )
             
             with col2:
-                # CSV export (simplified)
+                # CSV export
                 csv_data = []
                 for persona_id, result in test_data['results'].items():
                     csv_data.append({

@@ -19,7 +19,7 @@ CyPersona helps organizations test cybersecurity interventions (training, polici
 
 ```bash
 # Clone or download the project
-git clone <repository-url>
+git clone https://github.com/svdpmukherjee/cypersona.git
 cd cypersona
 
 # Install dependencies
