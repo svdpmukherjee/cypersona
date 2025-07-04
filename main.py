@@ -80,20 +80,20 @@ def main():
             # Together AI API Key
             together_key = st.text_input(
                 "Together AI API Key",
-                type="password",
-                value=os.getenv("TOGETHER_API_KEY", ""),
-                help="Get your API key from https://api.together.ai/"
+                placeholder="Enter your Together AI API key",
+                help="Get your API key from https://api.together.ai/",
+                label_visibility="visible"
             )
             
             # OpenAI API Key  
             openai_key = st.text_input(
                 "OpenAI API Key",
-                type="password", 
-                value=os.getenv("OPENAI_API_KEY", ""),
-                help="Required for embeddings and vector search. Get from https://platform.openai.com/"
+                placeholder="Enter your OpenAI API key",
+                help="Required for embeddings and vector search. Get from https://platform.openai.com/",
+                label_visibility="visible"
             )
             
-            # Set environment variables
+            # Set environment variables only if keys are provided
             if together_key:
                 os.environ["TOGETHER_API_KEY"] = together_key
             if openai_key:
@@ -102,14 +102,14 @@ def main():
             # Status indicators
             col1, col2 = st.columns(2)
             with col1:
-                if together_key:
-                    st.success("✅ Together AI configured")
+                if os.getenv("TOGETHER_API_KEY"):
+                    st.success("✅ Together AI configured with developer's key")
                 else:
                     st.warning("⚠️ Together AI key needed")
             
             with col2:
-                if openai_key:
-                    st.success("✅ OpenAI configured") 
+                if os.getenv("OPENAI_API_KEY"):
+                    st.success("✅ OpenAI configured with developer's key") 
                 else:
                     st.warning("⚠️ OpenAI key needed")
         
