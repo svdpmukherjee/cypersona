@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+requests
+python-dotenv
+datetime
+pathlib
+json5
+together
+faiss-cpu
+openai

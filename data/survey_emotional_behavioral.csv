@@ -1,0 +1,111 @@
+participant_code,job_level,industry_sector,team_size,intervention_approach,ei_emotional_awareness,ei_emotion_regulation,ei_empathy_understanding,ei_social_skills,pmt_threat_vulnerability,pmt_threat_severity,pmt_response_efficacy,pmt_self_efficacy,fear_arousal_intensity,phishing_behavior_pre,phishing_behavior_post,social_observational_learning,social_peer_modeling,social_reinforcement_response,trust_in_organization,shame_guilt_response,pride_accomplishment,anger_frustration_level,confidence_reporting,habit_formation_strength,behavioral_persistence_days,relapse_incidents,data_collection_date
+EMO_001,Senior Level,Government,18,Narrative,5,6,1,4,2,3,3,1,2,10,8,2,4,1,2,1,2,1,2,4,39,3,2025-04-28 17:10:31.079299
+EMO_002,Entry Level,Education,38,Positive Reinforcement,6,3,2,1,6,2,5,7,4,5,6,4,5,5,6,6,5,2,6,2,128,1,2025-04-18 17:10:31.079395
+EMO_003,Mid Level,Manufacturing,38,Control,5,4,6,6,7,5,4,1,1,4,5,2,6,3,3,3,5,4,5,3,140,7,2025-04-13 17:10:31.079481
+EMO_004,Entry Level,Manufacturing,9,Fear Appeal,6,4,1,1,6,7,4,2,5,4,8,3,6,3,5,7,3,1,4,3,110,5,2025-05-02 17:10:31.079565
+EMO_005,Senior Level,Government,22,Fear Appeal,3,5,1,5,6,7,1,7,6,2,4,5,4,3,7,1,4,4,7,3,167,6,2025-05-10 17:10:31.079650
+EMO_006,Executive,Education,31,Control,6,2,3,4,6,3,1,7,2,5,9,1,1,2,4,6,5,3,1,3,163,4,2025-04-03 17:10:31.079735
+EMO_007,Executive,Technology,22,Control,5,4,1,4,3,6,3,6,3,9,10,4,4,5,6,3,3,4,2,2,115,1,2025-06-10 17:10:31.079815
+EMO_008,Senior Level,Government,30,Positive Reinforcement,1,4,3,3,4,7,7,7,6,10,9,3,3,6,3,3,6,6,4,6,113,1,2025-04-02 17:10:31.079896
+EMO_009,Entry Level,Education,42,Social Proof,3,4,6,3,7,5,4,1,4,10,10,6,4,3,5,5,6,5,1,5,89,4,2025-03-07 17:10:31.079978
+EMO_010,Mid Level,Healthcare,6,Positive Reinforcement,3,1,6,2,3,4,6,1,7,7,6,4,3,1,1,6,5,3,1,4,14,5,2025-05-29 17:10:31.080060
+EMO_011,Mid Level,Technology,19,Narrative,3,6,6,4,5,5,7,6,1,3,6,2,3,5,2,6,7,1,2,7,22,0,2025-04-12 17:10:31.080142
+EMO_012,Entry Level,Healthcare,12,Narrative,2,1,5,2,6,3,4,1,1,5,6,2,4,1,3,6,2,4,1,7,178,0,2025-05-03 17:10:31.080225
+EMO_013,Senior Level,Government,26,Social Proof,3,4,2,4,3,3,3,6,1,2,3,4,5,3,3,7,4,5,1,7,48,5,2025-04-04 17:10:31.080309
+EMO_014,Executive,Healthcare,6,Positive Reinforcement,6,6,6,3,2,4,4,6,4,2,1,5,5,1,2,7,2,5,6,6,44,7,2025-06-09 17:10:31.080391
+EMO_015,Mid Level,Education,39,Control,2,6,5,6,1,2,1,2,5,6,9,3,1,6,4,7,5,1,3,6,117,6,2025-07-01 17:10:31.080474
+EMO_016,Executive,Government,46,Narrative,6,2,3,3,2,4,6,5,2,1,2,3,2,3,3,2,4,1,2,5,22,1,2025-05-20 17:10:31.080556
+EMO_017,Senior Level,Manufacturing,44,Control,1,1,5,3,7,6,7,4,4,3,7,1,1,2,6,5,7,5,2,5,74,2,2025-05-25 17:10:31.080639
+EMO_018,Mid Level,Government,49,Positive Reinforcement,3,3,2,4,5,7,3,6,4,6,8,5,3,3,4,7,4,3,5,3,45,7,2025-04-07 17:10:31.080721
+EMO_019,Executive,Government,5,Control,1,4,6,5,5,1,7,7,7,6,5,1,6,1,4,1,2,3,6,1,50,3,2025-04-05 17:10:31.080802
+EMO_020,Entry Level,Technology,28,Control,6,6,1,4,1,7,3,6,7,5,5,1,2,6,3,6,4,2,3,4,63,0,2025-04-02 17:10:31.080883
+EMO_021,Senior Level,Education,34,Control,1,4,4,1,4,6,1,2,3,10,10,6,5,5,1,4,6,2,7,2,66,1,2025-03-06 17:10:31.080965
+EMO_022,Entry Level,Finance,49,Control,4,5,2,1,7,3,3,3,7,5,4,6,6,6,4,1,1,3,3,7,151,7,2025-03-07 17:10:31.081046
+EMO_023,Senior Level,Finance,14,Social Proof,4,4,4,3,1,3,4,3,4,1,3,2,3,2,6,5,6,7,4,6,150,7,2025-06-05 17:10:31.081127
+EMO_024,Executive,Education,47,Control,6,4,6,5,2,5,1,1,1,6,10,3,3,3,3,2,7,7,1,5,57,6,2025-06-10 17:10:31.081208
+EMO_025,Senior Level,Government,46,Positive Reinforcement,2,3,3,2,7,2,4,3,6,9,10,5,1,5,5,5,1,7,4,5,117,3,2025-06-16 17:10:31.081288
+EMO_026,Executive,Healthcare,4,Social Proof,1,2,2,1,6,3,1,5,6,6,8,3,6,2,7,5,3,1,3,2,116,4,2025-04-06 17:10:31.081368
+EMO_027,Entry Level,Education,3,Social Proof,4,1,5,1,4,6,3,2,1,2,4,3,3,1,1,1,2,3,1,2,80,3,2025-03-21 17:10:31.081447
+EMO_028,Senior Level,Finance,36,Fear Appeal,1,5,5,6,5,2,6,1,3,7,10,2,2,6,4,2,4,4,5,1,15,3,2025-05-01 17:10:31.081527
+EMO_029,Executive,Healthcare,47,Control,1,2,4,1,7,3,1,4,5,7,9,4,2,2,5,4,2,5,2,5,95,0,2025-06-25 17:10:31.081608
+EMO_030,Senior Level,Manufacturing,11,Narrative,6,5,3,3,5,5,2,5,4,8,10,4,5,2,1,4,7,2,6,4,23,6,2025-05-24 17:10:31.081689
+EMO_031,Executive,Government,25,Positive Reinforcement,5,6,2,3,5,7,7,1,7,2,3,4,1,5,1,5,2,7,4,2,119,5,2025-04-27 17:10:31.081776
+EMO_032,Mid Level,Education,20,Social Proof,3,6,4,5,3,6,3,4,3,8,6,4,1,4,7,6,1,3,6,4,7,5,2025-04-11 17:10:31.081859
+EMO_033,Entry Level,Healthcare,18,Fear Appeal,6,3,2,4,4,3,2,1,7,7,7,2,2,4,6,2,7,6,5,6,153,6,2025-04-13 17:10:31.081938
+EMO_034,Mid Level,Education,28,Social Proof,3,6,2,4,3,3,6,5,6,3,2,5,6,6,3,4,6,3,7,1,109,0,2025-06-04 17:10:31.082020
+EMO_035,Senior Level,Manufacturing,6,Social Proof,3,3,3,6,5,7,3,1,3,6,10,4,1,3,2,5,1,2,7,4,165,0,2025-05-05 17:10:31.082101
+EMO_036,Senior Level,Healthcare,37,Positive Reinforcement,5,3,4,6,3,4,6,7,5,1,2,4,2,2,7,7,6,3,7,2,36,6,2025-06-25 17:10:31.082180
+EMO_037,Senior Level,Education,49,Control,5,1,2,5,6,4,1,5,1,2,5,4,6,1,2,2,6,7,5,7,159,7,2025-06-08 17:10:31.082261
+EMO_038,Mid Level,Manufacturing,10,Social Proof,3,6,2,1,5,6,1,6,5,4,6,5,5,6,5,2,2,1,3,1,80,1,2025-03-06 17:10:31.082339
+EMO_039,Mid Level,Technology,23,Positive Reinforcement,2,6,6,1,7,1,5,5,4,3,1,5,1,5,1,2,1,3,4,6,64,5,2025-06-11 17:10:31.082416
+EMO_040,Mid Level,Government,40,Social Proof,3,6,1,2,7,1,7,1,1,8,9,4,5,2,3,3,1,4,2,1,70,5,2025-04-14 17:10:31.082500
+EMO_041,Mid Level,Finance,44,Positive Reinforcement,1,5,2,6,5,1,5,3,7,10,8,2,6,3,2,2,4,3,7,2,106,6,2025-05-24 17:10:31.082577
+EMO_042,Mid Level,Manufacturing,3,Social Proof,4,6,1,4,2,3,5,5,2,9,9,4,2,3,6,4,3,6,1,6,113,7,2025-05-17 17:10:31.082656
+EMO_043,Senior Level,Education,24,Positive Reinforcement,1,4,3,6,6,5,6,3,4,3,1,2,2,1,7,2,1,6,6,7,110,7,2025-06-11 17:10:31.082734
+EMO_044,Senior Level,Education,46,Control,2,3,2,5,1,4,5,5,6,5,3,3,1,3,5,4,3,5,6,2,80,3,2025-04-29 17:10:31.082812
+EMO_045,Executive,Finance,45,Positive Reinforcement,1,1,3,4,5,7,4,7,2,4,7,6,3,2,2,5,1,5,4,6,150,7,2025-03-20 17:10:31.082889
+EMO_046,Executive,Healthcare,49,Positive Reinforcement,5,2,6,3,2,6,5,1,7,7,6,5,4,3,1,7,4,5,7,3,69,4,2025-07-01 17:10:31.082967
+EMO_047,Senior Level,Finance,35,Positive Reinforcement,6,6,5,2,3,7,3,7,5,2,1,1,1,3,7,2,3,7,1,1,61,5,2025-05-12 17:10:31.083045
+EMO_048,Executive,Manufacturing,41,Narrative,2,2,2,6,4,5,6,4,1,1,1,3,2,3,1,7,6,3,4,1,64,5,2025-05-05 17:10:31.083123
+EMO_049,Mid Level,Finance,4,Social Proof,4,2,5,1,7,4,6,7,2,1,1,2,1,5,5,6,1,5,6,1,145,7,2025-03-24 17:10:31.083201
+EMO_050,Entry Level,Finance,34,Positive Reinforcement,1,4,6,1,4,1,1,5,2,8,7,3,5,5,7,5,2,5,1,2,42,7,2025-04-10 17:10:31.083278
+EMO_051,Entry Level,Government,20,Control,1,1,6,1,5,7,4,2,3,4,8,3,4,1,7,3,7,4,5,7,19,1,2025-05-12 17:10:31.083356
+EMO_052,Mid Level,Healthcare,28,Narrative,2,6,4,1,2,5,3,2,1,10,10,1,4,1,1,7,3,3,1,7,154,2,2025-04-22 17:10:31.083433
+EMO_053,Executive,Technology,9,Narrative,6,6,4,5,6,6,1,1,1,10,10,2,5,4,7,1,6,3,2,2,78,6,2025-05-31 17:10:31.083511
+EMO_054,Mid Level,Healthcare,47,Control,4,3,4,4,5,2,3,2,6,1,2,2,4,1,6,6,2,4,2,5,156,7,2025-03-25 17:10:31.083589
+EMO_055,Executive,Finance,44,Social Proof,1,5,1,6,4,2,4,4,3,3,7,4,2,4,2,4,5,6,6,5,100,5,2025-06-15 17:10:31.083667
+EMO_056,Executive,Technology,32,Positive Reinforcement,5,3,3,6,4,3,5,3,5,7,7,5,3,3,5,7,5,5,1,7,131,4,2025-04-24 17:10:31.083745
+EMO_057,Entry Level,Finance,23,Narrative,5,1,3,6,2,5,3,7,6,7,10,2,4,6,7,6,2,1,2,2,145,0,2025-04-27 17:10:31.083823
+EMO_058,Mid Level,Education,3,Narrative,4,4,2,5,2,2,5,6,1,4,3,5,3,2,1,2,2,6,5,3,11,6,2025-05-07 17:10:31.083902
+EMO_059,Senior Level,Technology,11,Control,2,2,3,4,5,4,2,5,4,8,9,5,2,4,6,6,2,5,6,5,50,5,2025-05-25 17:10:31.083979
+EMO_060,Executive,Healthcare,3,Social Proof,2,6,6,6,5,4,6,4,2,7,10,2,6,1,2,6,3,2,5,6,85,0,2025-05-25 17:10:31.084056
+EMO_061,Executive,Healthcare,20,Social Proof,4,1,4,4,2,3,2,6,1,4,3,2,2,1,7,2,1,4,6,7,31,7,2025-04-23 17:10:31.084135
+EMO_062,Executive,Healthcare,23,Narrative,2,2,1,5,2,4,3,3,2,6,5,6,6,5,5,2,7,4,1,3,164,0,2025-05-17 17:10:31.084212
+EMO_063,Entry Level,Healthcare,6,Fear Appeal,2,3,2,5,6,3,2,7,3,6,4,4,2,5,2,1,5,2,6,6,13,2,2025-06-04 17:10:31.084290
+EMO_064,Senior Level,Finance,42,Positive Reinforcement,3,2,2,4,2,3,4,4,2,5,8,4,2,5,2,4,7,6,4,1,32,6,2025-03-24 17:10:31.084367
+EMO_065,Entry Level,Government,13,Control,2,4,5,1,5,6,2,7,2,8,10,4,3,4,6,1,4,3,4,2,165,6,2025-04-01 17:10:31.084444
+EMO_066,Entry Level,Government,47,Positive Reinforcement,1,3,5,3,6,5,7,4,7,5,4,1,4,4,5,1,4,1,4,5,28,7,2025-03-26 17:10:31.084531
+EMO_067,Entry Level,Finance,48,Social Proof,2,5,2,5,2,6,3,2,6,4,6,1,1,5,2,3,1,7,6,7,5,4,2025-04-11 17:10:31.084609
+EMO_068,Mid Level,Education,12,Control,4,6,4,2,4,1,7,4,2,4,6,3,1,5,2,3,3,6,7,1,105,5,2025-06-29 17:10:31.084687
+EMO_069,Entry Level,Healthcare,47,Social Proof,2,4,2,4,4,5,2,2,1,7,6,1,3,3,6,2,6,7,2,1,38,6,2025-06-11 17:10:31.084765
+EMO_070,Executive,Healthcare,11,Fear Appeal,4,2,1,6,7,7,7,7,3,2,6,1,4,2,7,5,7,3,4,6,158,3,2025-04-27 17:10:31.084843
+EMO_071,Mid Level,Healthcare,24,Narrative,2,1,2,4,1,4,7,5,4,10,10,6,5,4,5,5,7,1,2,5,77,2,2025-06-03 17:10:31.084920
+EMO_072,Entry Level,Finance,16,Positive Reinforcement,6,4,4,4,4,3,5,4,7,9,10,5,4,3,2,5,7,2,2,1,122,1,2025-06-23 17:10:31.084997
+EMO_073,Mid Level,Education,23,Narrative,1,4,1,6,5,6,5,1,1,1,3,2,1,6,5,6,3,7,3,4,50,0,2025-06-20 17:10:31.085076
+EMO_074,Mid Level,Healthcare,31,Narrative,3,1,4,2,4,2,7,6,1,1,5,2,3,5,7,6,7,4,4,6,25,3,2025-06-28 17:10:31.085153
+EMO_075,Executive,Government,20,Control,6,1,5,3,1,1,5,3,2,5,5,1,3,1,6,5,7,4,4,4,109,1,2025-04-09 17:10:31.085231
+EMO_076,Executive,Manufacturing,15,Fear Appeal,1,1,1,5,2,3,3,7,6,10,9,3,4,1,3,7,2,7,6,4,19,0,2025-04-25 17:10:31.085309
+EMO_077,Senior Level,Finance,9,Control,1,4,5,4,6,1,5,6,4,4,6,1,4,3,2,2,1,3,4,2,17,5,2025-04-06 17:10:31.085386
+EMO_078,Senior Level,Education,25,Narrative,1,1,4,1,7,4,4,5,3,6,6,3,5,4,1,5,1,5,1,2,47,2,2025-05-05 17:10:31.085465
+EMO_079,Executive,Manufacturing,41,Positive Reinforcement,4,6,2,6,3,4,2,3,7,1,3,2,4,6,7,4,2,4,6,3,137,2,2025-04-21 17:10:31.085543
+EMO_080,Mid Level,Education,37,Control,2,5,6,4,6,4,7,4,1,2,2,6,6,4,6,7,4,7,1,1,135,0,2025-03-30 17:10:31.085702
+EMO_081,Executive,Finance,7,Fear Appeal,4,2,2,6,4,4,7,2,2,10,10,6,4,2,4,7,6,1,7,3,119,1,2025-04-24 17:10:31.085855
+EMO_082,Mid Level,Manufacturing,47,Positive Reinforcement,2,3,6,2,4,7,6,6,2,5,4,3,3,6,3,3,5,4,5,1,7,4,2025-04-28 17:10:31.086062
+EMO_083,Executive,Finance,41,Social Proof,1,4,6,3,5,2,1,3,5,3,5,6,4,3,3,4,1,5,6,3,56,3,2025-04-05 17:10:31.086182
+EMO_084,Executive,Government,6,Narrative,6,6,5,3,6,1,4,1,3,1,1,2,1,5,2,4,4,3,3,2,22,6,2025-03-18 17:10:31.086266
+EMO_085,Senior Level,Education,37,Positive Reinforcement,4,2,4,5,4,7,7,5,1,9,10,5,4,5,1,1,6,5,3,3,120,4,2025-04-04 17:10:31.086348
+EMO_086,Senior Level,Manufacturing,9,Narrative,5,2,2,4,2,3,7,3,5,7,9,2,6,1,1,2,2,1,4,7,39,0,2025-05-19 17:10:31.086427
+EMO_087,Senior Level,Manufacturing,25,Fear Appeal,3,6,6,6,2,6,4,1,7,1,3,5,1,4,6,2,7,5,7,2,166,5,2025-03-08 17:10:31.086505
+EMO_088,Entry Level,Manufacturing,33,Control,2,2,3,4,2,7,1,6,6,3,2,4,2,6,1,3,5,7,4,5,45,3,2025-06-09 17:10:31.086600
+EMO_089,Entry Level,Education,32,Positive Reinforcement,2,5,3,2,7,2,7,5,3,6,8,4,2,5,7,3,1,5,6,5,179,6,2025-06-29 17:10:31.086710
+EMO_090,Mid Level,Education,31,Social Proof,4,3,1,6,2,3,3,1,5,7,10,6,6,2,4,3,7,2,3,1,99,2,2025-06-02 17:10:31.086795
+EMO_091,Executive,Healthcare,27,Narrative,3,6,4,3,7,3,2,2,6,10,10,1,2,2,6,5,7,2,2,4,164,5,2025-04-09 17:10:31.086877
+EMO_092,Entry Level,Manufacturing,5,Control,2,5,6,2,5,5,5,2,6,10,10,6,3,1,3,4,7,7,5,7,149,1,2025-05-10 17:10:31.086957
+EMO_093,Senior Level,Manufacturing,28,Control,2,6,3,6,6,1,3,1,5,7,10,5,3,6,4,2,6,7,2,1,93,7,2025-06-24 17:10:31.087037
+EMO_094,Senior Level,Manufacturing,28,Narrative,2,5,6,4,4,5,6,5,6,7,10,1,5,6,6,7,6,5,1,1,73,0,2025-04-03 17:10:31.087118
+EMO_095,Executive,Government,28,Social Proof,5,3,1,3,4,4,7,5,5,10,10,2,4,1,2,6,2,1,1,5,155,0,2025-04-07 17:10:31.087198
+EMO_096,Mid Level,Finance,27,Control,6,5,3,6,5,2,6,5,2,10,9,2,2,4,4,7,4,1,1,1,129,4,2025-03-09 17:10:31.087280
+EMO_097,Entry Level,Manufacturing,43,Narrative,3,6,3,6,4,5,2,5,1,8,10,2,3,4,3,1,3,6,7,7,11,0,2025-04-15 17:10:31.087358
+EMO_098,Mid Level,Education,6,Narrative,3,5,3,5,2,3,2,2,7,9,8,2,3,3,7,1,2,1,5,7,2,0,2025-04-23 17:10:31.087436
+EMO_099,Executive,Technology,22,Social Proof,2,5,4,4,5,1,4,3,6,6,7,1,1,2,1,5,3,6,3,5,116,4,2025-05-11 17:10:31.087520
+EMO_100,Executive,Technology,6,Positive Reinforcement,4,4,5,2,2,1,2,6,2,5,6,4,5,6,5,1,4,7,3,1,49,4,2025-07-01 17:10:31.087599
+EMO_101,Executive,Manufacturing,16,Control,3,1,3,2,7,2,7,3,4,2,2,1,3,3,2,4,4,5,7,6,12,2,2025-06-28 17:10:31.087677
+EMO_102,Entry Level,Finance,44,Fear Appeal,2,3,1,5,5,2,1,1,1,4,5,2,1,6,5,5,2,6,1,7,134,7,2025-05-22 17:10:31.087754
+EMO_103,Entry Level,Government,6,Control,2,2,1,1,4,7,3,6,3,3,2,6,2,6,2,2,2,7,4,2,112,0,2025-05-07 17:10:31.087833
+EMO_104,Mid Level,Government,6,Fear Appeal,6,1,4,4,5,4,2,4,5,6,8,5,1,2,6,3,6,2,4,5,131,1,2025-05-07 17:10:31.087910
+EMO_105,Entry Level,Manufacturing,11,Control,2,2,6,3,6,4,1,3,5,7,8,3,1,2,6,1,4,7,4,7,130,7,2025-04-12 17:10:31.087988
+EMO_106,Entry Level,Manufacturing,7,Control,2,2,4,2,3,7,1,2,5,7,10,6,6,3,3,2,1,6,5,6,43,3,2025-05-06 17:10:31.088065
+EMO_107,Entry Level,Finance,14,Control,1,4,2,3,7,2,2,2,5,4,5,6,4,6,3,6,2,3,7,5,124,5,2025-06-25 17:10:31.088143
+EMO_108,Mid Level,Healthcare,49,Social Proof,1,3,4,1,3,5,3,7,3,7,7,2,3,6,2,2,5,7,4,1,33,2,2025-03-24 17:10:31.088221
+EMO_109,Senior Level,Healthcare,49,Social Proof,2,4,5,2,4,5,5,1,2,5,8,5,4,1,7,1,3,2,2,5,30,1,2025-06-17 17:10:31.088299
+EMO_110,Entry Level,Healthcare,28,Positive Reinforcement,1,1,6,2,1,6,6,2,6,10,9,3,1,4,1,7,6,5,2,6,150,5,2025-06-27 17:10:31.088384

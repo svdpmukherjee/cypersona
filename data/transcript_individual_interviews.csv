@@ -1,0 +1,108 @@
+participant_id,data_type,interview_type,role,age,focus_areas,transcript_text,word_count,data_collection_date
+INT_001,individual_interview,Emotional Impact & Trust,Marketing Manager,34,"emotional_responses, trust, deception_feelings, stress, organizational_relationship","
+RESEARCHER: How did you feel immediately after realizing it was a phishing simulation?
+
+PARTICIPANT: Honestly, I felt a complex mix of emotions. Initially, there was this wave of relief washing over me because I realized my personal data and our company's information wasn't actually compromised. But that relief was quickly followed by a deep sense of embarrassment and shame. I pride myself on being tech-savvy - I'm the person my family comes to for computer problems, you know? So falling for this felt like a personal failure.
+
+RESEARCHER: Can you elaborate on that feeling of shame?
+
+PARTICIPANT: It was profound. I kept thinking about how I always lecture my parents about being careful online, and here I was, clicking on a suspicious link without hesitation. The worst part was wondering who else knew I had fallen for it. Would this affect how my colleagues perceive my competence? Would management question my judgment in other areas?
+
+RESEARCHER: Did you feel deceived by the organization conducting this experiment?
+
+PARTICIPANT: That's complicated. My initial reaction was feeling betrayed - like the organization was spying on us, testing us without our knowledge. It felt invasive and manipulative. I kept thinking, 'How long have they been watching our email behavior?' But after the comprehensive debrief session, I began to understand the educational purpose. The security team explained how these simulations are industry best practices, and they showed us statistics about real phishing attacks affecting similar companies. That context helped me reframe the experience.
+
+RESEARCHER: How has this experience changed your relationship with the organization?
+
+PARTICIPANT: It's evolved. Initially, it damaged my trust - I felt like they were being deceptive. But over time, I've come to appreciate their proactive approach. They could have waited for a real attack to happen, which would have been much worse. Now I see it as the organization investing in our security education rather than just catching us in mistakes. However, I do think the communication could have been better. Maybe a general announcement about upcoming security assessments without specific details would have felt less deceptive.
+
+RESEARCHER: How has your attitude toward email security changed?
+
+PARTICIPANT: It's completely transformed. I'm much more paranoid now, and I mean that in a positive way. I hover over every link before clicking, I scrutinize sender addresses for subtle misspellings, and I pay attention to the tone and urgency of messages. Sometimes I feel anxious opening emails, especially those marked as urgent or coming from executives I don't regularly communicate with. The simulation taught me that being generally careful isn't enough - you need to be systematically vigilant.
+
+RESEARCHER: Has this anxiety been manageable?
+
+PARTICIPANT: It was overwhelming at first. I found myself second-guessing every email interaction, which was time-consuming and stressful. But the follow-up training sessions helped me develop more efficient verification strategies. Now I have a mental checklist that doesn't take much time but gives me confidence in my decisions.
+
+RESEARCHER: Do you feel the intervention met your psychological needs?
+
+PARTICIPANT: In some ways, yes, and in others, no. It definitely satisfied my need for competence because I learned concrete skills that I can apply daily. The training materials were comprehensive, and practicing with additional simulated emails helped build my confidence. It also met my need for autonomy - I now feel more in control of my digital security rather than just hoping for the best. However, it initially damaged my sense of competence and made me question my judgment. The key was the supportive follow-up that helped rebuild my confidence while maintaining the important lessons learned.
+
+RESEARCHER: How do you view your role in organizational security now?
+
+PARTICIPANT: I see myself as an active participant rather than a passive recipient of IT security measures. Before, I thought security was IT's job, and my role was just to follow basic rules. Now I understand that every email I receive is a potential security decision that could affect the entire organization. It's both empowering and somewhat burdensome, but ultimately I prefer feeling like I have agency in protecting our workplace.
+            ",635,2025-04-12 17:11:10.488331
+INT_002,individual_interview,Cognitive Change & Learning,IT Support Specialist,29,"cognitive_changes, behavioral_adaptation, learning_outcomes, self_efficacy","
+RESEARCHER: What was your immediate reaction when you discovered the phishing email was fake?
+
+PARTICIPANT: Actually, I didn't fall for it initially. I reported it immediately to our security team, so when I found out it was a test, I felt validated and somewhat proud. Like, 'See? I know what I'm doing.' It boosted my confidence in my security knowledge and reinforced that my training and experience were paying off. But that confidence was tempered by concern for my colleagues who might have clicked.
+
+RESEARCHER: How did you feel about colleagues who did fall for the simulation?
+
+PARTICIPANT: I felt empathetic rather than superior. Working in IT support, I see how overwhelming technology can be for people whose expertise lies elsewhere. The simulation made me more aware of the human element in security. Technical solutions like firewalls and antivirus software are only part of the puzzle - human decision-making is often the most vulnerable point. It reinforced my belief that we need better user education, not just better technology.
+
+RESEARCHER: How has your thinking about cybersecurity evolved?
+
+PARTICIPANT: Before the simulation, I was very focused on technical aspects - patch management, system configurations, monitoring tools. But seeing the results opened my eyes to the psychological and social engineering components of attacks. I started reading about cognitive biases, social psychology, and how attackers exploit human psychology. It's fascinating and terrifying how sophisticated these attacks have become.
+
+RESEARCHER: What specific cognitive strategies have you developed?
+
+PARTICIPANT: I've developed a more systematic approach to email analysis. Instead of just trusting my gut instinct, I now have a mental framework. I ask myself: Do I know this sender? Was I expecting this communication? Does the request make sense in context? Is there artificial urgency or emotional manipulation? I also try to think like an attacker - what would I do to trick someone in my position or in the recipient's position?
+
+RESEARCHER: How has your behavior at work changed?
+
+PARTICIPANT: I've become more proactive in helping colleagues with security questions. I used to wait for people to come to me with problems, but now I regularly share tips during team meetings and help people analyze questionable emails. I've also started documenting common attack patterns I see, both in simulations and real attempts, to help train others.
+
+RESEARCHER: Has this role expansion been welcomed by colleagues?
+
+PARTICIPANT: Mostly yes. People appreciate having someone they can ask without feeling judged. The simulation helped normalize security concerns - it's no longer embarrassing to say you're unsure about an email. However, I've had to be careful not to come across as condescending or create anxiety where none existed before.
+
+RESEARCHER: How do you assess your current preparedness level?
+
+PARTICIPANT: I feel more prepared than before, but I'm also more aware of how unprepared we all are for truly sophisticated attacks. The simulation showed me that attackers are constantly evolving their techniques. I need to stay updated on new attack vectors, understand emerging social engineering tactics, and maintain my vigilance without becoming paralyzed by paranoia.
+
+RESEARCHER: What learning outcomes surprised you most?
+
+PARTICIPANT: The biggest surprise was realizing how much context matters in security decisions. The same email might be legitimate or suspicious depending on timing, recent events in the organization, or even the recipient's current stress level. This made me understand that security training can't just be about recognizing technical indicators - it has to include situational awareness and decision-making under uncertainty.
+
+RESEARCHER: How sustainable are these new practices?
+
+PARTICIPANT: The intense vigilance phase lasted about a month, then settled into more sustainable habits. The key was practicing the new behaviors until they became automatic. Now, the cognitive framework I developed runs in the background without requiring conscious effort most of the time. It only becomes deliberate when something triggers my suspicion.
+            ",612,2025-06-18 17:11:10.488351
+INT_003,individual_interview,Behavioral Change & Stress Management,Finance Director,45,"behavioral_adaptation, stress_management, decision_making, leadership_perspective","
+RESEARCHER: How has your thinking about cybersecurity changed since the simulation?
+
+PARTICIPANT: The simulation fundamentally shifted my perspective from viewing cybersecurity as IT's responsibility to understanding it as everyone's responsibility, especially those of us in leadership positions. Before, I thought my role was just to approve security budgets and ensure compliance. Now I realize that every financial email I open, every request I approve, is a potential security decision that could impact the entire organization.
+
+RESEARCHER: Can you describe specific behavioral changes you've implemented?
+
+PARTICIPANT: Absolutely. I used to click first and think later, especially with emails marked urgent or coming from executives. The pressure of financial deadlines often overrode caution. Now I have a systematic approach: I pause, take a deep breath, and analyze before acting. For financial requests, even those that seem legitimate, I've implemented a verification protocol. I call the requester using a known phone number, not one provided in the email. This extra step has already helped me catch two suspicious requests that weren't part of any simulation.
+
+RESEARCHER: How do you manage the time pressure versus security dilemma?
+
+PARTICIPANT: That's been the biggest challenge. Finance operates on tight deadlines, and adding verification steps can slow down legitimate transactions. I've had to educate my team and other departments about these new protocols. Initially, there was pushback about delays, but when I explained the potential cost of a successful attack - both financial and reputational - people became more understanding. We've actually found that most 'urgent' requests aren't truly urgent when examined closely.
+
+RESEARCHER: What cognitive strategies do you employ now?
+
+PARTICIPANT: I try to think like an attacker targeting someone in my position. What would I do to trick a finance director? I'd probably create urgency around a payment, impersonate a CEO or board member, or exploit my knowledge of our financial processes. This perspective shift has been eye-opening. I now look for social engineering tactics, not just technical indicators. I pay attention to unusual timing, emotional manipulation, and requests that bypass normal procedures.
+
+RESEARCHER: How has this affected your stress levels?
+
+PARTICIPANT: Initially, it increased my stress significantly. I became anxious about every email, worried about making mistakes that could compromise our financial systems. But over time, having systematic processes has actually reduced my stress. I'm more confident in my decisions because I know I've followed a thorough evaluation process. The anxiety has transformed into productive vigilance.
+
+RESEARCHER: How do you handle the psychological pressure of being a target?
+
+PARTICIPANT: It was unsettling to realize how attractive a target I am for attackers. As someone who approves large transactions and has access to sensitive financial information, I represent a high-value target. But this awareness has made me more strategic about my security practices. I've also become more conscious of what information I share publicly, including on social media and professional networks.
+
+RESEARCHER: How confident are you in your current abilities?
+
+PARTICIPANT: I'm more confident than before, but it's a realistic confidence based on process rather than intuition. I know my limitations and when to seek help from our security team. The simulation taught me that overconfidence is dangerous - attackers are sophisticated and constantly evolving their techniques.
+
+RESEARCHER: What impact has this had on your leadership approach?
+
+PARTICIPANT: I've become more proactive about security awareness in my department. We now include security considerations in our regular team meetings, and I encourage people to ask questions about suspicious emails without fear of judgment. I've also advocated for additional security training budget and worked with IT to develop finance-specific threat scenarios for practice.
+
+RESEARCHER: Any concerns about creating a culture of fear?
+
+PARTICIPANT: That's something I monitor carefully. The goal is to create appropriate caution, not paralyzing fear. I emphasize that security is a team effort and that asking questions shows good judgment, not incompetence. We celebrate successful threat identification rather than punishing mistakes, which has helped maintain a positive learning environment.
+            ",648,2025-06-29 17:11:10.488356

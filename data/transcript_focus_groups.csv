@@ -1,0 +1,111 @@
+participant_id,data_type,interview_type,role,age,focus_areas,transcript_text,word_count,data_collection_date
+FG_001,focus_group,Organizational Trust & Culture Change,8 participants (mixed roles),Mixed ages 26-52,"organizational_trust, culture_change, peer_support, training_effectiveness, communication","
+FACILITATOR: Let's begin by discussing how the phishing simulation affected your trust in the organization. I'd like to hear from everyone about their initial reactions.
+
+PARTICIPANT_A (HR Manager, 38): Initially, I felt completely betrayed. Like the company was conducting surveillance on us without our knowledge or consent. My first thought was, 'What else are they monitoring that we don't know about?' It felt like a violation of the psychological contract between employer and employee. I understand the need for security, but the method felt deceptive and manipulative.
+
+PARTICIPANT_B (Sales Representative, 29): I had the opposite reaction, actually. I felt like the organization cared enough about our security and the company's protection to invest in realistic, effective training. Too many companies just do generic security awareness presentations that nobody remembers. This showed they were serious about protecting us from real threats we face every day.
+
+PARTICIPANT_C (Accountant, 44): My concern was more about judgment and performance evaluation. Would management think less of those who fell for the simulation? Would it affect our performance reviews or advancement opportunities? The fear of being labeled as a 'security risk' was very real, even though they said it was just for training.
+
+FACILITATOR: Those are interesting different perspectives. How did these feelings evolve over time?
+
+PARTICIPANT_D (Operations Supervisor, 35): For me, the key was the immediate debrief and the way it was handled afterward. When they explained the rationale, showed us statistics about real attacks on similar companies, and emphasized that it was purely educational, my initial anger transformed into appreciation. But I think the communication could have been better from the start.
+
+PARTICIPANT_A: I agree about the communication. Maybe they could have announced that security assessments would be happening without giving specific details about timing or methods. That way we'd know it was coming but wouldn't be able to game the system.
+
+PARTICIPANT_E (Marketing Coordinator, 31): What really changed my perspective was learning about the legal and regulatory requirements for our industry. The compliance officer explained that these simulations are often required by auditors and that our clients expect us to have robust security training. It wasn't just the company being sneaky - it was them meeting their obligations to protect client data.
+
+FACILITATOR: How did peer interactions change after the simulation?
+
+PARTICIPANT_F (Customer Service Rep, 27): There was definitely an initial period of awkwardness. People were comparing who fell for it and who didn't, which created some tension. But as we started having more open discussions about it, that competitive dynamic shifted toward collaborative learning.
+
+PARTICIPANT_D: Exactly. We started talking more openly about security concerns in general. Before the simulation, admitting confusion about an email or asking for help felt embarrassing, like you were admitting incompetence. Now we collaborate more readily on suspicious emails, and it's seen as good judgment rather than weakness.
+
+PARTICIPANT_G (Research Assistant, 26): I noticed people started forwarding examples of real phishing emails they received, which became valuable learning opportunities. We created an informal knowledge-sharing system where interesting attack attempts get discussed and analyzed by the group.
+
+PARTICIPANT_H (Project Coordinator, 42): The simulation also revealed how different departments face different types of threats. Finance gets targeted with fake invoice and payment requests, HR sees resume attachments with malware, and sales receives fake prospect inquiries. Sharing these department-specific threats has been really valuable.
+
+FACILITATOR: What made the training effective or ineffective for your learning?
+
+PARTICIPANT_B: The immediate, detailed feedback was crucial. Getting a real-time explanation of why the email was suspicious, what techniques were used, and how I could have identified it helped reinforce the learning. Without that immediate connection between action and education, it would have just been a trick rather than a teaching moment.
+
+PARTICIPANT_C: The follow-up discussion sessions were equally valuable. Understanding how others analyzed the same email, hearing their thought processes, and learning from their strategies helped me identify blind spots in my own approach.
+
+PARTICIPANT_E: I appreciated that they provided multiple example scenarios after the initial simulation. One test isn't enough to cover the variety of tactics attackers use. Having a series of examples with increasing complexity helped build skills progressively.
+
+PARTICIPANT_F: The group analysis sessions were particularly effective. When we looked at examples as a team, people shared different red flags they noticed, and collectively we could identify things that individuals might miss.
+
+FACILITATOR: Were there aspects of the training that were less effective?
+
+PARTICIPANT_A: I think they underestimated the emotional impact. While they provided technical education, there wasn't much support for processing the feelings of vulnerability and embarrassment that came with falling for the simulation.
+
+PARTICIPANT_G: The timing could have been better communicated. Some people received the simulation during particularly stressful periods, which made them more vulnerable and also more upset about being tested during those times.
+
+PARTICIPANT_H: I would have liked more information about what happens to the data they collected. Do they track individual performance over time? Is it truly anonymous? More transparency about the data use would have helped with trust issues.
+
+FACILITATOR: How has the overall security culture in the organization changed?
+
+PARTICIPANT_D: There's definitely more security awareness in daily conversations. People mention security considerations in meetings, and there's less stigma around being cautious or asking questions about suspicious communications.
+
+PARTICIPANT_B: We've also become more supportive of each other. If someone receives a questionable email, they're more likely to ask colleagues for a second opinion rather than just hoping for the best or feeling embarrassed about not knowing.
+
+PARTICIPANT_C: I've noticed leadership taking security more seriously too. Managers are more willing to delay decisions to verify authenticity, and there's more understanding that security processes might slow things down but are ultimately worth it.
+            ",985,2025-05-28 17:11:10.488360
+FG_002,focus_group,Psychological Needs & Motivation,7 participants (mixed roles),Mixed ages 28-49,"autonomy, competence, relatedness, motivation, self_determination, learning_psychology","
+FACILITATOR: Today we're exploring how the phishing simulation affected your basic psychological needs - your sense of autonomy, competence, and connection with others. Let's start with autonomy. How did the experience affect your sense of control and choice?
+
+PARTICIPANT_I (Software Engineer, 32): Initially, it completely undermined my sense of autonomy. I felt like I was being manipulated and tested without my consent, which made me feel powerless and reactive rather than proactive. But as I learned more about the threats we actually face, I began to see the training as giving me more tools to make informed decisions about my digital security.
+
+PARTICIPANT_J (Nurse, 41): The educational framing was really important for me. Once I understood that this was about empowerment rather than surveillance, I felt more in control. The training showed me multiple ways to handle suspicious emails - reporting, verifying through other channels, seeking colleague input - so I had choices rather than just one rigid protocol.
+
+PARTICIPANT_K (Legal Assistant, 29): What helped my sense of autonomy was learning the 'why' behind security practices, not just the 'what.' Understanding how different types of attacks work and what attackers are trying to achieve helped me make more informed decisions rather than just following rules blindly.
+
+FACILITATOR: How did the simulation impact your sense of competence?
+
+PARTICIPANT_L (Laboratory Technician, 36): That was a real rollercoaster for me. Falling for the initial simulation severely damaged my confidence - I felt stupid and technologically incompetent. But the learning process that followed gradually rebuilt my competence. Starting with obvious phishing examples and progressing to more subtle ones helped me develop skills systematically rather than just highlighting my failures.
+
+PARTICIPANT_M (Office Manager, 45): I had a similar experience. The immediate aftermath was devastating for my confidence, but the structured learning that followed was empowering. I realized that recognizing these attacks isn't just about technical knowledge - it requires understanding psychology and social engineering tactics, which made the challenge feel more intellectually interesting rather than just about technical competence.
+
+PARTICIPANT_N (Research Coordinator, 33): For me, competence came from understanding that even security professionals fall for sophisticated attacks sometimes. Learning that this is a skill that requires ongoing development, rather than something you either have or don't have, made the learning feel more achievable and less threatening to my self-image.
+
+PARTICIPANT_O (Administrative Assistant, 52): The group learning component was crucial for building competence. Seeing that even people I consider tech-savvy struggled with some scenarios normalized the difficulty and made me feel less alone in my confusion.
+
+FACILITATOR: How did the social aspects of the training affect your sense of connection and relatedness?
+
+PARTICIPANT_I: The group debriefing sessions created a real sense of shared responsibility and mutual support. We weren't just protecting our individual accounts anymore - we were part of a collective defense system. That sense of working together toward a common goal was motivating and made the effort feel more meaningful.
+
+PARTICIPANT_J: Exactly. It fostered what I'd call a security-conscious culture where helping each other is encouraged and normalized rather than seen as admitting weakness. There's now a sense of camaraderie around security vigilance.
+
+PARTICIPANT_K: The simulation also revealed how much we can learn from each other. Different people noticed different red flags in the same email, and combining our perspectives made everyone more effective. It highlighted the value of collaboration over individual expertise.
+
+FACILITATOR: What motivated you to apply what you learned from the training?
+
+PARTICIPANT_L: Knowing that my vigilance protects not just my own data but potentially prevents broader organizational breaches gave the effort more significance. It's not just personal security anymore - it's contributing to something larger than myself.
+
+PARTICIPANT_M: The practical relevance was hugely motivating. These aren't abstract, theoretical threats - they're real risks we face in our daily work. Every email could potentially be a test of what I learned.
+
+PARTICIPANT_N: For me, the motivation came from transforming a negative experience (falling for the simulation) into something positive and educational. I wanted to prove to myself that I could learn and improve, not just avoid being tricked again.
+
+FACILITATOR: How sustainable is your motivation to maintain these new security practices?
+
+PARTICIPANT_O: The initial high-alert phase lasted several weeks, but it's settled into more sustainable habits. The key was making the new behaviors automatic rather than requiring constant conscious effort.
+
+PARTICIPANT_I: I think the social reinforcement helps with sustainability. When colleagues ask for help with suspicious emails or share their own experiences, it keeps security awareness active in our daily interactions.
+
+PARTICIPANT_J: Having clear, achievable goals helped too. Instead of trying to become a security expert overnight, I focused on developing specific skills like verifying sender authenticity or recognizing urgency manipulation tactics.
+
+FACILITATOR: Did the training address your need for growth and learning?
+
+PARTICIPANT_K: Absolutely. It opened up a whole new area of knowledge that I find genuinely interesting. Understanding how social engineering works, learning about different attack vectors, and staying current with emerging threats has become an ongoing intellectual pursuit rather than just a work requirement.
+
+PARTICIPANT_L: The progressive skill-building approach satisfied my need for mastery. Starting with basic concepts and gradually tackling more sophisticated scenarios gave me a sense of advancement and growing expertise.
+
+PARTICIPANT_M: It also connected to broader digital literacy skills that are valuable beyond just security. Understanding how online manipulation works has made me more thoughtful about all my digital interactions, from social media to online shopping.
+
+FACILITATOR: Any concerns about the psychological impact of heightened vigilance?
+
+PARTICIPANT_N: There was an initial period where I became somewhat paranoid and anxious about all digital communications. But learning to channel that awareness productively rather than letting it become overwhelming anxiety was part of the learning process.
+
+PARTICIPANT_O: The key was developing confidence in my decision-making process rather than just being generally suspicious. Having systematic approaches to evaluate emails gave me tools to manage uncertainty without being paralyzed by it.
+            ",1048,2025-06-01 17:11:10.488363

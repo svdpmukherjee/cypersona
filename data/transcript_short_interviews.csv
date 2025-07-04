@@ -1,0 +1,28 @@
+participant_id,data_type,interview_type,role,age,focus_areas,transcript_text,word_count,data_collection_date
+SHORT_001,short_interview,Preparedness Assessment,Database Administrator,39,"preparedness, self_efficacy, confidence","
+RESEARCHER: How prepared do you feel against phishing attacks now compared to before the simulation?
+
+PARTICIPANT: Much more prepared, but I've learned that preparation isn't just about technical knowledge - it's about mindset and systematic thinking. Before, I was overconfident based on my technical background. The simulation showed me that attackers target psychology, not just technical vulnerabilities. Now I'm more skeptical by default, which feels safer but can be mentally exhausting. I've developed verification habits that are becoming automatic, and I understand the importance of staying updated on new attack techniques.
+
+RESEARCHER: How has your confidence changed specifically?
+
+PARTICIPANT: It's become more realistic and process-based rather than intuition-based. Before, I trusted my gut instincts about emails, but the simulation showed me how those instincts can be manipulated. Now I'm confident in my systematic approach to email evaluation rather than just my immediate impressions. I know when to pause, what questions to ask myself, and when to seek additional verification. This methodical confidence feels more reliable than my previous overconfidence.
+            ",180,2025-06-04 17:11:10.488366
+SHORT_002,short_interview,Ethics & Deception,Communications Manager,43,"deception_ethics, trust, organizational_relationship","
+RESEARCHER: How did you feel about being deceived during the experiment, and how do you view the ethics of this approach?
+
+PARTICIPANT: I had very mixed feelings about the deception aspect. Intellectually, I understand the necessity - you can't test people's real responses to phishing if they know it's fake. But emotionally, it felt like a violation of trust between employee and employer. The key factor that made it acceptable was the immediate disclosure and comprehensive educational follow-up. If they had just tricked us without explanation or learning opportunity, it would have been purely manipulative. The educational context transformed deception into a valuable learning experience.
+
+RESEARCHER: Would you participate in similar training again?
+
+PARTICIPANT: Absolutely, now that I understand the purpose and approach. The temporary discomfort of being deceived was far outweighed by the lasting value of the learning. I'd rather be deceived in a controlled educational environment than by actual attackers with malicious intent. However, I think organizations need to be very transparent about using these methods and ensure robust ethical oversight of such programs.
+            ",191,2025-06-15 17:11:10.488368
+SHORT_003,short_interview,Behavioral Sustainability,Quality Assurance Manager,37,"behavioral_change, sustainability, habit_formation","
+RESEARCHER: What specific behaviors have changed since the simulation, and how sustainable are these changes?
+
+PARTICIPANT: Several key behaviors changed. I now verify financial requests through multiple channels, immediately report suspicious emails rather than just deleting them, and I've developed a habit of pausing before clicking any link or attachment. The high-vigilance phase lasted about two weeks, then settled into more sustainable routines. The key was practicing the new behaviors until they became automatic rather than requiring constant conscious effort.
+
+RESEARCHER: What factors helped maintain these behavioral changes?
+
+PARTICIPANT: Having clear protocols helped enormously. Instead of just being told to 'be careful,' I now have specific steps to follow when evaluating emails. The peer reinforcement was also crucial - when colleagues ask for help with suspicious emails or share their own experiences, it keeps security awareness active in our daily interactions. The organization's supportive approach to questions and mistakes made it easier to maintain vigilant behaviors without fear of judgment.
+            ",168,2025-06-19 17:11:10.488370
