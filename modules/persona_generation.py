@@ -1,5 +1,5 @@
 """
-Step 2: AI-Powered Persona Generation (Optimized - Preserving Aesthetics)
+Step 2: AI-Powered Persona Generation
 
 """
 
@@ -96,27 +96,38 @@ Make every detail specific to this persona's role, industry, and psychology. No 
             return f"Error: {str(e)}"
 
 def parse_persona_content(llm_output):
-    """Parse LLM output into structured components"""
+    """Parse LLM output into structured components with better section detection"""
     sections = {'basic_profile': '', 'behavioral_scores': '', 'vulnerabilities': '', 
                'protective_behaviors': '', 'recommendations': ''}
     
     current_section = None
-    for line in llm_output.split('\n'):
+    lines = llm_output.split('\n')
+    
+    for line in lines:
         line = line.strip()
         if not line:
             continue
             
-        if 'BASIC PROFILE' in line.upper():
+        # Detect section headers with more specific patterns
+        line_upper = line.upper()
+        if ('BASIC PROFILE' in line_upper or line_upper.startswith('1.')) and 'BASIC' in line_upper:
             current_section = 'basic_profile'
-        elif 'BEHAVIORAL SCORE' in line.upper():
+            continue
+        elif ('BEHAVIORAL SCORE' in line_upper or line_upper.startswith('2.')) and ('BEHAVIORAL' in line_upper or 'SCORE' in line_upper):
             current_section = 'behavioral_scores'
-        elif 'VULNERABILITIES' in line.upper():
+            continue
+        elif ('VULNERABILITIES' in line_upper or line_upper.startswith('3.')) and 'VULNERABILITIES' in line_upper:
             current_section = 'vulnerabilities'
-        elif 'PROTECTIVE' in line.upper():
+            continue
+        elif ('PROTECTIVE' in line_upper or 'BEHAVIORS' in line_upper or line_upper.startswith('4.')) and ('PROTECTIVE' in line_upper or 'BEHAVIORS' in line_upper):
             current_section = 'protective_behaviors'
-        elif 'RECOMMENDATION' in line.upper() or 'INTERVENTION' in line.upper():
+            continue
+        elif ('RECOMMENDATION' in line_upper or 'INTERVENTION' in line_upper or line_upper.startswith('5.')) and ('RECOMMENDATION' in line_upper or 'INTERVENTION' in line_upper):
             current_section = 'recommendations'
-        elif current_section and not line.startswith(('1.', '2.', '3.', '4.', '5.')):
+            continue
+        
+        # Add content to current section
+        if current_section:
             sections[current_section] += line + '\n'
     
     return sections
@@ -393,7 +404,7 @@ def render_persona_generation_ui():
         
         persona_description = st.text_area(
             "Describe the persona you want to create:",
-            placeholder="Example: Create a persona for a busy research associate in their 40s who is moderately tech-savvy but often rushes through emails due to workload pressure and has limited cybersecurity training.",
+            placeholder="Example: Create a persona for a busy healthcare administrator in their 40s who is moderately tech-savvy but often rushes through emails due to workload pressure and has limited cybersecurity training.",
             height=120,
             help="Be specific about role, industry, experience level, and behavioral characteristics"
         )
