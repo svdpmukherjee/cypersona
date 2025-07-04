@@ -323,7 +323,7 @@ def render_step1_ui():
         st.markdown("---")
         st.subheader("📁 Data Ingestion")
         # Cloud storage simulation
-        st.info("🌐 All uploaded data will be securely stored in clouds (e.g. **Azure Data Lake Gen2**")
+        st.info("🌐 All uploaded data will be securely stored in clouds (e.g. **Azure Data Lake Gen2**)")
         
         processor = LLMDataProcessor()
         
